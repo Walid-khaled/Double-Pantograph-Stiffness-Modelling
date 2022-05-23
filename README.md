@@ -6,7 +6,7 @@ This repository contains the implementation of the stiffness analysis of the dou
 ### Results
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/169873536-f655b218-0864-4eb0-b874-fc89428b271d.jpg" width="200" height="200" />
+  <img src="https://user-images.githubusercontent.com/90580636/169873536-f655b218-0864-4eb0-b874-fc89428b271d.jpg" width="150" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873748-51c4190c-4621-4fbb-b525-13a8a63ddd5c.png" width="200" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873607-f025aea8-b603-4876-ab04-ebe682165cd9.png" width="300" height="200" />
 </p>
