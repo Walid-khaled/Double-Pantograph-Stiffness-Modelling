@@ -6,10 +6,14 @@ This repository contains the implementation of the stiffness analysis of the dou
 ### Results
 
 <p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/169873536-f655b218-0864-4eb0-b874-fc89428b271d.jpg" width="300" height="200" />
+  <img src="https://user-images.githubusercontent.com/90580636/169873607-f025aea8-b603-4876-ab04-ebe682165cd9.png" width="300" height="200" />
+</p>
+<p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/169873194-ea15a37a-d2e2-4bec-bfb1-4e32b9dd0623.png" width="300" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873289-08462128-badd-47d2-9840-1145acda43a5.png" width="300" height="200" />
 </p>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/169873344-9bb2a158-917e-4118-bca3-f2c1a90b6b0f.png" width="300" height="200" />
+  <img src="https://user-images.githubusercontent.com/90580636/169873493-26ce0f1e-5775-407e-92a3-377c9cfdfd92.png" width="300" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873392-eb278311-cac1-42f3-9881-36da38ed2366.png" width="300" height="200" />
 </p>
