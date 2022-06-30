@@ -2,7 +2,16 @@
 This repository contains the implementation of the stiffness analysis of the double pantograph transmission system. It is implemented using VJM and MSA techniques to fnd the EE deﬂection at different points in the workspace. After deﬂection calculations, deﬂection scatter plots are built to analyse the maximum deﬂection due to 100N force along x, y, z directions respectively. It was found that VJM method has some limitations to model this structure, which prevent evaluating the deﬂection with an external load in x, z directions. A comparative analysis is performed to compare both MSA and VJM computation complexity and deﬂection deference. It was noticeable that MSA has less computation cost and no limitations to model the double pantograph structure compared to VJM approach.
 
 ---
+## Double Pantograph
+- Double Pantograph includes two sets of vertically stacked scissors which are pinned directly together, stabilized, and raised simultaneously.
+- The design creates a stable structure for high travel applications and consumes less floor space, so it can easily fit among other work equipment.
+- Common applications include parts assembly and disassembly, personnel work platforms, mezzanine, and multiple landing access. 
+![image](https://user-images.githubusercontent.com/90580636/176668254-663de557-9418-44ee-83e4-c21c1ffb9459.png)
 
+---
+## Kinematics 
+
+---
 ### Results
 
 <p float="left">
