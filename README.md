@@ -11,6 +11,10 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 
 ---
 ## Kinematics 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176668876-f7f7875c-53b2-4a35-bc01-410b31071b52.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176668889-b7c4590e-66a8-4e49-999d-76d56bb16350.png" width="400" height="250" />
+</p>
 
 ---
 ### Results
