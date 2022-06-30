@@ -53,7 +53,7 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
   <img src="https://user-images.githubusercontent.com/90580636/176677019-6cd0ca53-a9f4-424b-97c9-cd8529f17501.png" width="400" height="250" />
 </p>
 
-### Results
+## MSA - VJM Comparison  
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/169873536-f655b218-0864-4eb0-b874-fc89428b271d.jpg" width="150" height="200" />
