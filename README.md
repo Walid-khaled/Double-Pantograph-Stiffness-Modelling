@@ -65,3 +65,5 @@ As VJM limitations do not allows us to compare the deflections due to forces in 
   <img src="https://user-images.githubusercontent.com/90580636/169873493-26ce0f1e-5775-407e-92a3-377c9cfdfd92.png" width="300" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873392-eb278311-cac1-42f3-9881-36da38ed2366.png" width="300" height="200" />
 </p>
+
+[MIT License](https://github.com/Walid-khaled/Double-Pantograph-Stiffness-Modelling/blob/main/LICENSE)
