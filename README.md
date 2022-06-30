@@ -7,7 +7,7 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 - Double Pantograph includes two sets of vertically stacked scissors which are pinned directly together, stabilized, and raised simultaneously.
 - The design creates a stable structure for high travel applications and consumes less floor space, so it can easily fit among other work equipment.
 - Common applications include parts assembly and disassembly, personnel work platforms, mezzanine, and multiple landing access. 
-<img src="https://user-images.githubusercontent.com/90580636/176668254-663de557-9418-44ee-83e4-c21c1ffb9459.png" width="200" height="300" />
+<img src="https://user-images.githubusercontent.com/90580636/176668254-663de557-9418-44ee-83e4-c21c1ffb9459.png" width="300" height="300" />
 
 ---
 ## Kinematics 
