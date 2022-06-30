@@ -37,7 +37,21 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 
 ![image](https://user-images.githubusercontent.com/90580636/176676600-00d791ba-23f3-453a-a9d2-f3a39424f536.png)
 
+### Virtual Joint Modelling
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676885-1cb6c737-12a9-49cd-8afd-511c9d349e76.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676916-4856fb85-d982-45fa-9f77-1089f8f877db.png" width="400" height="250" />
+</p>
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676943-2ef87d9b-189e-4c79-b72b-194a908520d9.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676970-d50fa379-6116-4b5d-85a0-7a8ded6ca529.png" width="400" height="250" />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676992-6dfa6891-9acb-40af-ae77-cea5e1bdcb32.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176677019-6cd0ca53-a9f4-424b-97c9-cd8529f17501.png" width="400" height="250" />
+</p>
 
 ### Results
 
