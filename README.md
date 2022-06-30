@@ -54,12 +54,11 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 </p>
 
 ## MSA - VJM Comparison  
+as VJM
+limitations do not allows us to compare the deflections due to
+forces in x and z directions with the corresponding deflections
+from MSA.
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/169873536-f655b218-0864-4eb0-b874-fc89428b271d.jpg" width="150" height="200" />
-  <img src="https://user-images.githubusercontent.com/90580636/169873748-51c4190c-4621-4fbb-b525-13a8a63ddd5c.png" width="200" height="200" />
-  <img src="https://user-images.githubusercontent.com/90580636/169873607-f025aea8-b603-4876-ab04-ebe682165cd9.png" width="300" height="200" />
-</p>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/169873194-ea15a37a-d2e2-4bec-bfb1-4e32b9dd0623.png" width="300" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/169873289-08462128-badd-47d2-9840-1145acda43a5.png" width="300" height="200" />
