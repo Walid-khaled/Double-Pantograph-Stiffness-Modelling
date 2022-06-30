@@ -14,7 +14,31 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
   <img src="https://user-images.githubusercontent.com/90580636/176668889-b7c4590e-66a8-4e49-999d-76d56bb16350.png" width="400" height="250" />
 </p>
 
----
+## Matrix Structural Analysis
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676138-57ba2491-68fd-4220-b96d-4837bc3e8983.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676148-b40d4547-fb63-4871-84d6-5396ade220af.png" width="400" height="250" />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676285-e9adb1dd-65c4-4c31-be3a-c9ce35a28e5c.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676342-8bca80a7-2ce4-4b0e-8729-53121295c1dd.png" width="400" height="250" />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676427-d6213167-a146-4fff-96f8-30a580e6a5c7.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676504-6100bab6-3274-45c6-a062-a106cb66992c.png" width="400" height="250" />
+</p>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176676561-75065293-6e20-4a5c-a415-93af7480e91e.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176676573-59da9416-7b9d-43ad-b4e8-a78b1549b141.png" width="400" height="250" />
+</p>
+
+![image](https://user-images.githubusercontent.com/90580636/176676600-00d791ba-23f3-453a-a9d2-f3a39424f536.png)
+
+
+
 ### Results
 
 <p float="left">
