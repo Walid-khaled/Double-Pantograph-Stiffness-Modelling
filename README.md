@@ -35,18 +35,26 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 
 ### Virtual Joint Modelling
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676885-1cb6c737-12a9-49cd-8afd-511c9d349e76.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676916-4856fb85-d982-45fa-9f77-1089f8f877db.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140685-bba3d2aa-b92b-4112-9413-d3aeef0daa9a.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140704-562312e0-1fe1-4617-8201-509f5abe74b0.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676943-2ef87d9b-189e-4c79-b72b-194a908520d9.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676970-d50fa379-6116-4b5d-85a0-7a8ded6ca529.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140734-8f9c698e-dc29-4eae-973b-5a3f418ff3a1.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140763-e663fc6d-972f-4131-afd7-773dfed5082a.png" width="400" height="250" />
+</p>
+
+![image](https://user-images.githubusercontent.com/90580636/189140779-fc10ef4f-c73e-404f-9655-494d6dc45cb2.png)
+
+## Results
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/189141123-bde122c2-a20f-477a-87da-2550dce0ce44.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189141142-88932980-4783-45c0-ae62-f8e4eb2be3d7.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676992-6dfa6891-9acb-40af-ae77-cea5e1bdcb32.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176677019-6cd0ca53-a9f4-424b-97c9-cd8529f17501.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189141155-e920ae5e-b873-45a3-b62f-c3d1ae39e0b6.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189141177-234388f4-2afc-4aba-866e-75c8e367cd7f.png" width="400" height="250" />
 </p>
 
 ## MSA - VJM Comparison  
