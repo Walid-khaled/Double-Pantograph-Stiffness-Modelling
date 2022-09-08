@@ -11,8 +11,8 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 
 ## Kinematics 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176668876-f7f7875c-53b2-4a35-bc01-410b31071b52.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176668889-b7c4590e-66a8-4e49-999d-76d56bb16350.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189139491-e488be91-3fde-45ac-b423-277a1ec6dd7f.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189139604-d24336a5-a929-4690-b6f8-7ba8fa2f6c89.png" width="400" height="250" />
 </p>
 
 ## Matrix Structural Analysis
