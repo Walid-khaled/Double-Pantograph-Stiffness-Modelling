@@ -17,26 +17,21 @@ It is implemented using VJM and MSA techniques to fnd the EE deﬂection at diff
 
 ## Matrix Structural Analysis
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676138-57ba2491-68fd-4220-b96d-4837bc3e8983.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676148-b40d4547-fb63-4871-84d6-5396ade220af.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189139906-3b07366d-d055-43dd-92d1-ba898b301946.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189139923-d65527dc-ae1c-4308-8902-0ae94371fd87.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676285-e9adb1dd-65c4-4c31-be3a-c9ce35a28e5c.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676342-8bca80a7-2ce4-4b0e-8729-53121295c1dd.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140063-b1152aab-93d6-43ab-9658-7fc214408a5a.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140085-3cb232d8-4ef4-40c1-9976-4328df99e4c8.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676427-d6213167-a146-4fff-96f8-30a580e6a5c7.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676504-6100bab6-3274-45c6-a062-a106cb66992c.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140252-7025f0de-f86e-4173-b261-7b362140a46a.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/189140278-9f219789-3385-4bcf-9072-6cf7aee18c25.png" width="400" height="250" />
 </p>
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176676561-75065293-6e20-4a5c-a415-93af7480e91e.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176676573-59da9416-7b9d-43ad-b4e8-a78b1549b141.png" width="400" height="250" />
-</p>
-
-![image](https://user-images.githubusercontent.com/90580636/176676600-00d791ba-23f3-453a-a9d2-f3a39424f536.png)
+![image](https://user-images.githubusercontent.com/90580636/189140303-1f6b199e-e057-4fed-9a65-5b49b9d72d7d.png)
 
 ### Virtual Joint Modelling
 <p float="left">
